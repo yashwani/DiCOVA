@@ -1,0 +1,2 @@
+# DiCOVA
+DiCOVA Interspeech Challenge
